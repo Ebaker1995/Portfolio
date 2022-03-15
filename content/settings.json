@@ -4,10 +4,10 @@
     "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
     "title": "Eric Baker Portfolio",
     "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+    "description": "Eric Baker's Portfolio Website",
     "author": "Eric Baker",
-    "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "avatar": "../content/images/profile-pic-modified.png",
+    "bio": "Eric Baker",
     "social": {
       "github": "https://github.com/Ebaker1995",
       "linkedin": "https://www.linkedin.com/in/ericbaker1995/",
