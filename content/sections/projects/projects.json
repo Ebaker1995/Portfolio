@@ -62,7 +62,7 @@
     }
   ],
   "button": {
-    "visible": true,
+    "visible": false,
     "label": "Visit my Github",
     "url": "https://github.com/Ebaker1995"
   }
