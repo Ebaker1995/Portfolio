@@ -1,6 +1,13 @@
 {
   "interests": [
     {
+      "label": "React",
+      "image": {
+        "src": "../../images/react.png",
+        "alt": ""
+      }
+    },
+    {
       "label": "Javascript",
       "image": {
         "src": "../../images/js.png",
